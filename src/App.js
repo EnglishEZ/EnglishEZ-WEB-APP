@@ -1,11 +1,18 @@
 import "./App.css";
-import { ThemeProvider as MUIThemeProvider } from "@material-ui/styles";
-import Header from "./Componennts/Header";
+import Client from "./Components/Client/index";
+import Header from './Components/Header/index';
+import Functions from './Components/Functions/index';
+import Intro from './Components/Intro/index';
+import Footer from "./Components/Footer/index";
 function App() {
   return (
-    <MUIThemeProvider>
+    <div id="body">
       <Header />
-    </MUIThemeProvider>
+      <Client />
+      <Functions />
+      <Intro />
+      <Footer/>
+    </div>
   );
 }
 
