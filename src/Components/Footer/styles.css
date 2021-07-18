@@ -1,7 +1,7 @@
 .blue{
     background-image: linear-gradient(to right,#000000, #5468FF, #000000);
     margin-bottom: 0px;
-    height: 15px;
+    height: 0.3vw;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,7 +9,7 @@
     font-family: "Poppins-SemiBold";
     color: #ffffff;
     letter-spacing: 0.03vw;
-    padding-top: 21vh;
+    padding-top: 10.5vw;
 }
 .blue p a{
     color: #ffffff;
@@ -18,21 +18,21 @@
 
 #Footer {
   background: #ffffff 0% 0% no-repeat padding-box;
-  margin-top: 50px;
+  margin-top: 4vw;
 }
 .img4{
-    height: 10vh;
+    height: 5vw;
     width: 9vw;
     position: relative;
-    bottom: 7vh;
+    bottom: 3.8vw;
     right: 45vw;
 }
 
 .img5{
-    height: 10vh;
+    height: 5vw;
     width: 9vw;
     position: relative;
-    bottom: 29vh;
+    bottom: 14vw;
     left: 44.8vw;
 }
 
@@ -41,4 +41,7 @@
 }
 .space{
     padding-inline: 1vw;
+}
+.txt-foot{
+    font-size: 1.02vw;
 }

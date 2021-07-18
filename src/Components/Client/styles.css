@@ -46,11 +46,11 @@
   font-size: 2.25rem;
 }
 .img{
-    height: 90vh;
+    height: 44vw;
 }
 #img-one{
     position: relative;
-    top: 52vh;
+    top: 25vw;
     left: 76vw;
     height: 6vw;
     width: 6vw;
@@ -58,7 +58,7 @@
 #img-two{
     position: relative;
     left: 41vw;
-    bottom: 5vh;
+    bottom: 3vw;
     height: 4vw;
     width: 4vw;
 }
@@ -66,14 +66,14 @@
 #img-four{
     position: relative;
     left: 24vw;
-    top: 12vh;
+    top: 5.5vw;
     height: 8vw;
     width: 8vw;
 }
 
 #img-seven{
     position: relative;
-    top: 30vh;
+    top: 15vw;
     left: 27vw;
     height: 6vw;
     width: 6vw;
@@ -81,7 +81,7 @@
 #img-eight{
     position: relative;
     left: 11vw;
-    bottom: 6vh;
+    bottom: 2vw;
     height: 9vw;
     width: 9vw;
 }
@@ -95,49 +95,49 @@
     position: relative;
     height: 7.7vw;
     width: 7.7vw;
-    bottom: 72vh;
+    bottom: 36vw;
     left: 11vw;
 }
 #img-eleven{
     position: relative;
     height: 7.7vw;
     width: 7.7vw;
-    bottom: 89vh;
+    bottom: 44vw;
     left: 80vw;
 }
 #img-twelve{
     position: relative;
     height: 5vw;
     width: 5vw;
-    bottom: 112vh;
+    bottom: 55vw;
     left: 68vw;
 }
 #img-thirteen{
     position: relative;
     height: 4vw;
     width: 4vw;
-    bottom: 110vh;
+    bottom: 53.5vw;
     left: 57vw;
 }
 #img-fourteen{
     position: relative;
     height: 5.5vw;
     width: 5.5vw;
-    bottom: 79vh;
+    bottom: 38.5vw;
     left: 40vw;
 }
 #img-fifteen{
     position: relative;
     height: 7vw;
     width: 7vw;
-    bottom: 144vh;
+    bottom: 71vw;
     left: 25vw;
 }
 #img-sixteen{
     position: relative;
     height: 4vw;
     width: 4vw;
-    bottom: 103.8vh;
+    bottom: 51vw;
     left: 55vw;
 }
 
@@ -145,8 +145,8 @@
     position: absolute;
     background: transparent url('../../Assets/Map.png') no-repeat center / cover;
     width: 65%;
-    height: 77%;
-    top: 154vh;
+    height: 54vw;
+    top: 68vw;
     left: 19vw;
     background-size: 90%;
     z-index: -3;

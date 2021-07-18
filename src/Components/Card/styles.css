@@ -1,21 +1,21 @@
 .adjust-img{
     position: relative;
-    height: 20vh;
+    height: 10vw;
     width: 20vw;
-    top: -6vh;
-    left: 12vw;
+    top: -3vw;
+    left: 13vw;
     z-index: -1;
 }
 .adjust-img-two{
     position: relative;
-    height: 20vh;
+    height: 10vw;
     width: 20vw;
-    top: -6vh;
-    left: 85.4vw;
+    top: -3vw;
+    left: 85vw;
     z-index: -1;
 }
 .card{
-    margin-block: 20vh;
+    margin-block: 10vw;
     display: flex;
     flex-direction: row;
     margin-right: 8vw;
@@ -23,7 +23,7 @@
 
 }
 .card-two{
-    margin-block: 20vh;
+    margin-block: 10vw;
     display: flex;
     flex-direction: row;
     margin-right: 13vw;
@@ -54,7 +54,7 @@
     text-align: right;
 }
 .img6{
-    height: 46vh;
+    height: 23vw;
     width: 33vw;
     border-radius: 2vw;
 
