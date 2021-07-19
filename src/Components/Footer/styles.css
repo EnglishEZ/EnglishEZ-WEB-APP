@@ -1,0 +1,47 @@
+.blue{
+    background-image: linear-gradient(to right,#000000, #5468FF, #000000);
+    margin-bottom: 0px;
+    height: 0.3vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins-SemiBold";
+    color: #ffffff;
+    letter-spacing: 0.03vw;
+    padding-top: 10.5vw;
+}
+.blue p a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#Footer {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  margin-top: 4vw;
+}
+.img4{
+    height: 5vw;
+    width: 9vw;
+    position: relative;
+    bottom: 3.8vw;
+    right: 45vw;
+}
+
+.img5{
+    height: 5vw;
+    width: 9vw;
+    position: relative;
+    bottom: 14vw;
+    left: 44.8vw;
+}
+
+.pos{
+    position: relative;
+}
+.space{
+    padding-inline: 1vw;
+}
+.txt-foot{
+    font-size: 1.02vw;
+}

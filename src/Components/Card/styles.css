@@ -1,0 +1,81 @@
+.adjust-img{
+    position: relative;
+    height: 10vw;
+    width: 20vw;
+    top: -3vw;
+    left: 13vw;
+    z-index: -1;
+}
+.adjust-img-two{
+    position: relative;
+    height: 10vw;
+    width: 20vw;
+    top: -3vw;
+    left: 85vw;
+    z-index: -1;
+}
+.card{
+    margin-block: 10vw;
+    display: flex;
+    flex-direction: row;
+    margin-right: 8vw;
+    margin-left: -3vw;
+
+}
+.card-two{
+    margin-block: 10vw;
+    display: flex;
+    flex-direction: row;
+    margin-right: 13vw;
+    margin-left: -12vw;
+
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.content-two{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 6vh;
+}
+.heading{
+    font-size: 2.5vw;
+    font-family: "Poppins-Bold";
+    color: #07051B;
+    letter-spacing: 0.1vw;
+}
+.heading-two{
+    font-size: 2.5vw;
+    font-family: "Poppins-Bold";
+    color: #07051B;
+    letter-spacing: 0.1vw;
+    text-align: right;
+}
+.img6{
+    height: 23vw;
+    width: 33vw;
+    border-radius: 2vw;
+
+}
+.img-cont{
+    margin-right: 7vw;
+}
+.img-cont-two{
+    margin-left: 7vw;
+}
+.text{
+    font-size: 1.5vw;
+    font-family: "Poppins-Medium";
+    color: #9FB5C6;
+    letter-spacing: 0.09vw;
+}
+.text-two{
+    font-size: 1.5vw;
+    font-family: "Poppins-Medium";
+    color: #9FB5C6;
+    letter-spacing: 0.09vw;
+    text-align: right;
+
+}

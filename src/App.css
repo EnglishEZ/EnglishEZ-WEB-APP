@@ -1,0 +1,14 @@
+#body{
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+#client{
+  background: #e7eff975 0% 0% no-repeat padding-box;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+html{
+  scroll-behavior: smooth;
+}

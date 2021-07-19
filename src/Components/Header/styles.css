@@ -1,0 +1,74 @@
+.Avatar {
+  margin-right: 3vw;
+  height: 5vw !important;
+  width: 5vw !important;
+}
+.Avatar-Two {
+  margin-left: 3vw;
+  height: 5vw !important;
+  width: 5vw !important;
+}
+#home {
+  color: #5468ff;
+  border-bottom: 0.2vw solid #5468ff;
+  padding-bottom: 0.25vw;
+}
+.img10 {
+  width: 4vw;
+  height: 3vw;
+  position: absolute;
+  left: 8vw;
+}
+.img11 {
+  width: 100%;
+  height: 100%;
+}
+.img-handle {
+  width: 100%;
+  height: 49vw;
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 6vh;
+  list-style: none;
+  font-size: 1.3vw;
+  font-family: "Poppins-Medium";
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 7vw;
+}
+#navbar {
+  display: flex;
+  flex-direction: column;
+}
+.right-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.right-container ul li a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  margin-right: 4vw;
+}
+.stores {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 10vw;
+}
